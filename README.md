@@ -41,7 +41,7 @@
 
 <hr>
 
-<div align="center" >
+<div align="left" >
   <img src="https://github-readme-stats.vercel.app/api?username=unalbaris&show_icons=true&count_private=true&hide_border=true" align="center" />  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unalbaris&hide_border=true&layout=compact" align="center" />
 </div>  
